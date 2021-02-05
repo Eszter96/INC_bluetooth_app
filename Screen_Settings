@@ -1,2 +1,11 @@
+
 Add some  settings to look responsive
-add something to the screen
+
+
+
+
+
+
+            addPreferencesFromResource(R.xml.preferences)
+
+Test 
