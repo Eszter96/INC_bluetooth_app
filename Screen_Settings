@@ -6,3 +6,5 @@ Add some  settings to look responsive
             addPreferencesFromResource(R.xml.preferences)
 
 
+
+SettingsActivity : AppCompatActivity() 
