@@ -1,0 +1,14 @@
+
+On width 600: arrange everything in one column
+ main
+
+Add some  settings to look responsive
+
+
+
+
+
+
+            addPreferencesFromResource(R.xml.preferences)
+
+Test 
