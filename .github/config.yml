@@ -11,4 +11,4 @@ requestInfoDefaultTitles:
   - updates
 
 # *OPTIONAL* Label to be added to Issues and Pull Requests with insufficient information given
-requestInfoLabelToAdd: bug
+requestInfoLabelToAdd: needs-more-info
