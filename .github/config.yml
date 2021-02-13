@@ -2,7 +2,7 @@
 
 # *Required* Comment to reply with
 requestInfoReplyComment: >
-  Hi I am the request info app and I want to get more detail on this issue or pull request!
+  Hi this is a shorter comment! Please provide more info!
 
 # *OPTIONAL* default titles to check against for lack of descriptiveness
 # MUST BE ALL LOWERCASE
