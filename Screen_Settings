@@ -20,4 +20,11 @@ add something
                                                       
                                                       inside it will give you something 
 
+
+
+SettingsActivity : AppCompatActivity() 
+
+
+Still Need to add more Features! 
+=======
 main
